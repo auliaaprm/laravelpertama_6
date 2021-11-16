@@ -1,5 +1,0 @@
-Tambahan :
-
-1. Menambahkan direct nomor telepon pada bagian member groups
-2. Menambahkan coding insert untuk groups_id pada create friends
-3. Menambahkan value groups_id pada CobaController bagian store
